@@ -9,6 +9,6 @@ The main ray-tracing code can be found in [Main.java](https://github.com/xBobZx/
 
 # Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/xBobZx/Bezier/master/images/screenshot1.png)
-![Screenshot](https://raw.githubusercontent.com/xBobZx/Bezier/master/images/screenshot2.png)
-![Screenshot](https://raw.githubusercontent.com/xBobZx/Bezier/master/images/screenshot3.png)
+![Screenshot](https://raw.githubusercontent.com/xBobZx/Ray-Tracer/master/images/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/xBobZx/Ray-Tracer/master/images/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/xBobZx/Ray-Tracer/master/images/screenshot3.png)
